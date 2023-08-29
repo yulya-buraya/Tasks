@@ -1,0 +1,9 @@
+function compose:
+  Write a compose function that will take functions and organize function composition from them.
+  Pay attention to the order in which the functions are written - the last one written runs first and goes from right to left. 
+  There can be any number of functions and they can take only one initial argument.
+
+function composeWithArgs:
+  Write a compose function that will take functions and organize function composition from them.
+  Pay attention to the order in which the functions are written - the last one written runs first and goes from right to left. 
+  There can be any number of functions and they can take as many arguments as you like at the beginning.
